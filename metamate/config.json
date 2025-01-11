@@ -1,8 +1,17 @@
 {
     "version": "v2",
     "apps": [
-        "facebook",
-        "messenger",
-        "socksdroid"
+        {
+            "name": "facebook",
+            "package": "com.facebook.katana"
+        },
+        {
+            "name": "messenger",
+            "package": "com.facebook.orca"
+        },
+        {
+            "name": "socksdroid",
+            "package": "net.typeblog.socks"
+        }
     ]
 }
