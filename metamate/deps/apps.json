@@ -1,5 +1,5 @@
 {
-    "version": "v3",
+    "version": "v4",
     "apps": [
         {
             "name": "facebook",
@@ -12,6 +12,10 @@
         {
             "name": "socksdroid",
             "package": "net.typeblog.socks"
+        },
+        {
+            "name": "keyboard",
+            "package": "com.android.adbkeyboard"
         }
     ]
 }
