@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<hierarchy rotation="0">
+    <node index="0" text="" resource-id="" class="android.widget.FrameLayout"
+        package="com.facebook.katana" content-desc="" checkable="false" checked="false"
+        clickable="false" enabled="true" focusable="false" focused="false" scrollable="false"
+        long-clickable="false" password="false" selected="false" bounds="[0,0][380,620]">
+        <node index="0" text="" resource-id="" class="android.widget.LinearLayout"
+            package="com.facebook.katana" content-desc="" checkable="false" checked="false"
+            clickable="false" enabled="true" focusable="false" focused="false" scrollable="false"
+            long-clickable="false" password="false" selected="false" bounds="[0,0][380,620]">
+            <node index="0" text="" resource-id="android:id/content"
+                class="android.widget.FrameLayout" package="com.facebook.katana" content-desc=""
+                checkable="false" checked="false" clickable="false" enabled="true" focusable="false"
+                focused="false" scrollable="false" long-clickable="false" password="false"
+                selected="false" bounds="[0,23][380,620]">
+                <node index="0" text="" resource-id="" class="android.widget.FrameLayout"
+                    package="com.facebook.katana" content-desc="" checkable="false" checked="false"
+                    clickable="false" enabled="true" focusable="false" focused="false"
+                    scrollable="false" long-clickable="false" password="false" selected="false"
+                    bounds="[0,23][380,620]">
+                    <node index="0" text="" resource-id="" class="android.view.ViewGroup"
+                        package="com.facebook.katana" content-desc="" checkable="false"
+                        checked="false" clickable="false" enabled="true" focusable="false"
+                        focused="false" scrollable="false" long-clickable="false" password="false"
+                        selected="false" bounds="[3,26][377,617]">
+                        <node index="0" text="" resource-id="" class="android.widget.FrameLayout"
+                            package="com.facebook.katana" content-desc="" checkable="false"
+                            checked="false" clickable="false" enabled="true" focusable="false"
+                            focused="false" scrollable="false" long-clickable="false"
+                            password="false" selected="false" bounds="[3,174][377,617]">
+                            <node index="0" text="" resource-id="" class="android.view.View"
+                                package="com.facebook.katana" content-desc="" checkable="false"
+                                checked="false" clickable="false" enabled="true" focusable="false"
+                                focused="false" scrollable="false" long-clickable="false"
+                                password="false" selected="false" bounds="[3,174][377,617]" />
+                            <node index="1" text="" resource-id=""
+                                class="android.widget.FrameLayout" package="com.facebook.katana"
+                                content-desc="" checkable="false" checked="false" clickable="false"
+                                enabled="true" focusable="false" focused="false" scrollable="false"
+                                long-clickable="false" password="false" selected="false"
+                                bounds="[3,174][377,617]" />
+                            <node index="2" text="" resource-id=""
+                                class="android.widget.FrameLayout" package="com.facebook.katana"
+                                content-desc="" checkable="false" checked="false" clickable="false"
+                                enabled="true" focusable="false" focused="false" scrollable="false"
+                                long-clickable="false" password="false" selected="false"
+                                bounds="[3,189][377,617]">
+                                <node index="0" text="" resource-id=""
+                                    class="android.widget.FrameLayout" package="com.facebook.katana"
+                                    content-desc="" checkable="false" checked="false"
+                                    clickable="false" enabled="true" focusable="false"
+                                    focused="false" scrollable="false" long-clickable="false"
+                                    password="false" selected="false" bounds="[3,189][377,617]">
+                                    <node index="0" text="" resource-id=""
+                                        class="android.view.ViewGroup" package="com.facebook.katana"
+                                        content-desc="" checkable="false" checked="false"
+                                        clickable="false" enabled="true" focusable="false"
+                                        focused="false" scrollable="false" long-clickable="false"
+                                        password="false" selected="false" bounds="[3,189][377,617]">
+                                        <node index="0" text="" resource-id=""
+                                            class="android.view.ViewGroup"
+                                            package="com.facebook.katana" content-desc=""
+                                            checkable="false" checked="false" clickable="false"
+                                            enabled="true" focusable="false" focused="false"
+                                            scrollable="false" long-clickable="false"
+                                            password="false" selected="false"
+                                            bounds="[3,189][377,617]">
+                                            <node index="0" text="" resource-id=""
+                                                class="androidx.recyclerview.widget.RecyclerView"
+                                                package="com.facebook.katana" content-desc=""
+                                                checkable="false" checked="false" clickable="false"
+                                                enabled="true" focusable="true" focused="false"
+                                                scrollable="false" long-clickable="false"
+                                                password="false" selected="false"
+                                                bounds="[3,238][377,617]">
+                                                <node index="0" text="" resource-id=""
+                                                    class="android.view.ViewGroup"
+                                                    package="com.facebook.katana" content-desc=""
+                                                    checkable="false" checked="false"
+                                                    clickable="false" enabled="true"
+                                                    focusable="false" focused="false"
+                                                    scrollable="false" long-clickable="false"
+                                                    password="false" selected="false"
+                                                    bounds="[3,238][377,367]">
+                                                    <node index="0" text="" resource-id=""
+                                                        class="android.view.ViewGroup"
+                                                        package="com.facebook.katana"
+                                                        content-desc="" checkable="false"
+                                                        checked="false" clickable="false"
+                                                        enabled="true" focusable="false"
+                                                        focused="false" scrollable="false"
+                                                        long-clickable="false" password="false"
+                                                        selected="false" bounds="[18,238][362,367]">
+                                                        <node index="0"
+                                                            text="Need help logging into your account?"
+                                                            resource-id="" class="android.view.View"
+                                                            package="com.facebook.katana"
+                                                            content-desc="Need help logging into your account?"
+                                                            checkable="false" checked="false"
+                                                            clickable="false" enabled="true"
+                                                            focusable="true" focused="false"
+                                                            scrollable="false"
+                                                            long-clickable="false" password="false"
+                                                            selected="false"
+                                                            bounds="[18,238][362,297]" />
+                                                        <node index="1"
+                                                            text="This mobile number is associated with an existing account. We can help you find your account and log in."
+                                                            resource-id="" class="android.view.View"
+                                                            package="com.facebook.katana"
+                                                            content-desc="This mobile number is associated with an existing account. We can help you find your account and log in."
+                                                            checkable="false" checked="false"
+                                                            clickable="false" enabled="true"
+                                                            focusable="false" focused="false"
+                                                            scrollable="false"
+                                                            long-clickable="false" password="false"
+                                                            selected="false"
+                                                            bounds="[18,297][362,367]" />
+                                                    </node>
+                                                </node>
+                                                <node index="1" text="" resource-id=""
+                                                    class="android.view.ViewGroup"
+                                                    package="com.facebook.katana" content-desc=""
+                                                    checkable="false" checked="false"
+                                                    clickable="false" enabled="true"
+                                                    focusable="false" focused="false"
+                                                    scrollable="false" long-clickable="false"
+                                                    password="false" selected="false"
+                                                    bounds="[3,367][377,487]">
+                                                    <node index="0" text="" resource-id=""
+                                                        class="android.view.ViewGroup"
+                                                        package="com.facebook.katana"
+                                                        content-desc="" checkable="false"
+                                                        checked="false" clickable="false"
+                                                        enabled="true" focusable="false"
+                                                        focused="false" scrollable="false"
+                                                        long-clickable="false" password="false"
+                                                        selected="false" bounds="[3,367][377,487]">
+                                                        <node index="0" text="" resource-id=""
+                                                            class="android.widget.Button"
+                                                            package="com.facebook.katana"
+                                                            content-desc="Help me log in"
+                                                            checkable="false" checked="false"
+                                                            clickable="true" enabled="true"
+                                                            focusable="true" focused="false"
+                                                            scrollable="false"
+                                                            long-clickable="false" password="false"
+                                                            selected="false"
+                                                            bounds="[18,380][362,421]">
+                                                            <node index="0" text="" resource-id=""
+                                                                class="android.view.ViewGroup"
+                                                                package="com.facebook.katana"
+                                                                content-desc="" checkable="false"
+                                                                checked="false" clickable="false"
+                                                                enabled="true" focusable="false"
+                                                                focused="false" scrollable="false"
+                                                                long-clickable="false"
+                                                                password="false" selected="false"
+                                                                bounds="[18,380][362,421]">
+                                                                <node index="0"
+                                                                    text="Help me log in"
+                                                                    resource-id=""
+                                                                    class="android.view.View"
+                                                                    package="com.facebook.katana"
+                                                                    content-desc="Help me log in"
+                                                                    checkable="false"
+                                                                    checked="false"
+                                                                    clickable="false" enabled="true"
+                                                                    focusable="false"
+                                                                    focused="false"
+                                                                    scrollable="false"
+                                                                    long-clickable="false"
+                                                                    password="false"
+                                                                    selected="false"
+                                                                    bounds="[140,391][240,411]" />
+                                                            </node>
+                                                        </node>
+                                                        <node index="1" text="" resource-id=""
+                                                            class="android.widget.Button"
+                                                            package="com.facebook.katana"
+                                                            content-desc="Continue creating account"
+                                                            checkable="false" checked="false"
+                                                            clickable="true" enabled="true"
+                                                            focusable="true" focused="false"
+                                                            scrollable="false"
+                                                            long-clickable="false" password="false"
+                                                            selected="false"
+                                                            bounds="[18,433][362,474]">
+                                                            <node index="0" text="" resource-id=""
+                                                                class="android.view.ViewGroup"
+                                                                package="com.facebook.katana"
+                                                                content-desc="" checkable="false"
+                                                                checked="false" clickable="false"
+                                                                enabled="true" focusable="false"
+                                                                focused="false" scrollable="false"
+                                                                long-clickable="false"
+                                                                password="false" selected="false"
+                                                                bounds="[18,433][362,474]">
+                                                                <node index="0"
+                                                                    text="Continue creating account"
+                                                                    resource-id=""
+                                                                    class="android.view.View"
+                                                                    package="com.facebook.katana"
+                                                                    content-desc="Continue creating account"
+                                                                    checkable="false"
+                                                                    checked="false"
+                                                                    clickable="false" enabled="true"
+                                                                    focusable="false"
+                                                                    focused="false"
+                                                                    scrollable="false"
+                                                                    long-clickable="false"
+                                                                    password="false"
+                                                                    selected="false"
+                                                                    bounds="[97,444][283,464]" />
+                                                            </node>
+                                                        </node>
+                                                    </node>
+                                                </node>
+                                            </node>
+                                        </node>
+                                    </node>
+                                </node>
+                                <node index="1" text="" resource-id=""
+                                    class="android.widget.FrameLayout" package="com.facebook.katana"
+                                    content-desc="" checkable="false" checked="false"
+                                    clickable="false" enabled="true" focusable="false"
+                                    focused="false" scrollable="false" long-clickable="false"
+                                    password="false" selected="false" bounds="[3,189][377,238]">
+                                    <node index="0" text="" resource-id=""
+                                        class="android.view.ViewGroup" package="com.facebook.katana"
+                                        content-desc="" checkable="false" checked="false"
+                                        clickable="false" enabled="true" focusable="false"
+                                        focused="false" scrollable="false" long-clickable="false"
+                                        password="false" selected="false" bounds="[3,189][377,238]">
+                                        <node index="0" text="" resource-id=""
+                                            class="android.view.ViewGroup"
+                                            package="com.facebook.katana" content-desc=""
+                                            checkable="false" checked="false" clickable="false"
+                                            enabled="true" focusable="false" focused="false"
+                                            scrollable="false" long-clickable="false"
+                                            password="false" selected="false"
+                                            bounds="[14,193][37,234]">
+                                            <node index="0" text="" resource-id=""
+                                                class="android.widget.Button"
+                                                package="com.facebook.katana" content-desc="Close"
+                                                checkable="false" checked="false" clickable="true"
+                                                enabled="true" focusable="true" focused="false"
+                                                scrollable="false" long-clickable="false"
+                                                password="false" selected="false"
+                                                bounds="[14,193][37,234]">
+                                                <node index="0" text="" resource-id=""
+                                                    class="android.view.ViewGroup"
+                                                    package="com.facebook.katana" content-desc=""
+                                                    checkable="false" checked="false"
+                                                    clickable="false" enabled="true"
+                                                    focusable="false" focused="false"
+                                                    scrollable="false" long-clickable="false"
+                                                    password="false" selected="false"
+                                                    bounds="[14,193][37,234]">
+                                                    <node index="0" text="" resource-id=""
+                                                        class="android.view.ViewGroup"
+                                                        package="com.facebook.katana"
+                                                        content-desc="" checkable="false"
+                                                        checked="false" clickable="false"
+                                                        enabled="true" focusable="false"
+                                                        focused="false" scrollable="false"
+                                                        long-clickable="false" password="false"
+                                                        selected="false" bounds="[14,202][37,225]">
+                                                        <node index="0" text="" resource-id=""
+                                                            class="android.widget.ImageView"
+                                                            package="com.facebook.katana"
+                                                            content-desc="" checkable="false"
+                                                            checked="false" clickable="false"
+                                                            enabled="true" focusable="false"
+                                                            focused="false" scrollable="false"
+                                                            long-clickable="false" password="false"
+                                                            selected="false"
+                                                            bounds="[14,202][37,225]" />
+                                                    </node>
+                                                </node>
+                                            </node>
+                                        </node>
+                                    </node>
+                                </node>
+                            </node>
+                        </node>
+                    </node>
+                </node>
+            </node>
+        </node>
+        <node index="1" text="" resource-id="android:id/statusBarBackground"
+            class="android.view.View" package="com.facebook.katana" content-desc=""
+            checkable="false" checked="false" clickable="false" enabled="true" focusable="false"
+            focused="false" scrollable="false" long-clickable="false" password="false"
+            selected="false" bounds="[0,0][380,23]" />
+    </node>
+</hierarchy>

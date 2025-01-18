@@ -5,12 +5,13 @@
             "countryName": "Bangladesh",
             "countryCode": "+880",
             "areaCodes": [
-                "17",
-                "18",
-                "16",
-                "19",
-                "15" 
+                "115",
+                "165",
+                "175",
+                "185",
+                "195"
             ],
+            "rightNum": 7,
             "peopleName": {
                 "female": {
                     "firstName": [
@@ -60,16 +61,25 @@
             "countryName": "Indonesia",
             "countryCode": "+62",
             "areaCodes": [
-                "81",
-                "82",
-                "83",
-                "85",
-                "85",
-                "87",
-                "88",
-                "89",
-                "89"
+                "855",
+                "838",
+                "818",
+                "852",
+                "857",
+                "878",
+                "896",
+                "813",
+                "812",
+                "856",
+                "859",
+                "898",
+                "899",
+                "814",
+                "897",
+                "819",
+                "853"
             ],
+            "rightNum": 6,
             "peopleName": {
                 "female": {
                     "firstName": [
@@ -106,16 +116,18 @@
             "countryName": "Philippines",
             "countryCode": "+63",
             "areaCodes": [
-                "906",
-                "908",
-                "922",
-                "915",
-                "917",
-                "918",
+                "932",
+                "280",
+                "283",
+                "929",
+                "928",
                 "919",
-                "920",
-                "921"
+                "908",
+                "933",
+                "921",
+                "910"
             ],
+            "rightNum": 7,
             "peopleName": {
                 "female": {
                     "firstName": [
@@ -163,6 +175,7 @@
                 "75",
                 "78"
             ],
+            "rightNum": 7,
             "peopleName": {
                 "female": {
                     "firstName": [
@@ -200,26 +213,9 @@
             "countryName": "United States",
             "countryCode": "+1",
             "areaCodes": [
-                "202",
-                "213",
-                "305",
-                "312",
-                "415",
-                "646",
-                "818",
-                "213",
-                "303",
-                "408",
-                "512",
-                "718",
-                "702",
-                "714",
-                "949",
-                "617",
-                "650",
-                "818",
-                "503"
+                "555"
             ],
+            "rightNum": 7,
             "peopleName": {
                 "female": {
                     "firstName": [
@@ -255,15 +251,13 @@
             "countryName": "Vietnam",
             "countryCode": "+84",
             "areaCodes": [
-                "90",
-                "91",
-                "93",
-                "94",
-                "95",
-                "96",
-                "97",
-                "98"
+                "355",
+                "855",
+                "555",
+                "955",
+                "755"
             ],
+            "rightNum": 6,
             "peopleName": {
                 "female": {
                     "firstName": [
